@@ -82,3 +82,9 @@ section .section1{
 .contact a{
   text-decoration: none;
 }
+.amro{
+  text-align: left;
+  border-style: solid;
+  border-color: black;
+  padding: 0;
+}
